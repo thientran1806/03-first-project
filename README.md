@@ -1,5 +1,6 @@
 # 03-first-project
 Get started with Theejs and Vite
+
 1.
 To create a cube geometry, you need to use the following class:
 BoxGeometry
